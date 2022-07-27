@@ -5,7 +5,7 @@ It is a truth universally aknowledged that a Data Scientist in possession of som
 Here I try to collect organically all I have been chaotically learning since day one of my beloved job.
 
 ## 1. Useful links
-References, courses, books, comics, amenities and quotes.
+References, courses, books, comics, quotes and random amenities.
 
 1. [Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-python)
 2. [Statistics](https://xkcd.com/2560/)
