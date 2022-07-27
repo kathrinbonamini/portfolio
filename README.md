@@ -26,7 +26,7 @@ References, courses, books, comics, quotes and random amenities.
 1. Object Detection with GluonCV
 2. Image Classification with Keras
 3. Image denoising with autoencoders
-4. Style Transfer
+4. Neural Style Transfer with `tensorflow`
 
 ## 4. AWS & boto3
 1. Create lambda functions
