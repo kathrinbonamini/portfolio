@@ -9,7 +9,7 @@ References, courses, books, comics, amenities and quotes.
 
 1. [Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-python)
 2. [Statistics](https://xkcd.com/2560/)
-3. Git cheatsheet
+3. [Git cheatsheet](https://github.com/kathrinbonamini/portfolio/blob/main/A1_useful_links/GitCheatsheet.md)
 4. Code Checklist
 5. [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 6. [Data Labeling](https://labelstud.io/)
