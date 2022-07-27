@@ -12,6 +12,7 @@ References, courses, books, comics, amenities and quotes.
 3. Git cheatsheet
 4. Code Checklist
 5. [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+6. [Data Labeling](https://labelstud.io/)
 
 ## 2. Natural Language Processing
 1. Text Classification with `sklearn`
