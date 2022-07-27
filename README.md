@@ -1,8 +1,30 @@
-# Projects
+# PyKat
 
-1. [Text Classification](https://gitlab.com/nlp-mining/job-crawler) 
-2. Named Entity Recognition 
-3. Create lambda functions
-4. Interact with s3: upload, download, list, read
-5. Git cheatsheet
-6. Code Checklist
+It is a truth universally aknowledged that a Data Scientist in possession of some entropic knowledge must be in want of a well-sorted toolbox.
+
+Here I try to collect organically all I have been chaotically learning since day one of my beloved job.
+
+## 1. Useful links
+Here I track references, courses, books, comics, amenities and quotes.
+
+1. [Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-python)
+2. [Statistics](https://xkcd.com/2560/)
+3. Git cheatsheet
+4. Code Checklist
+5. [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+## 2. Natural Language Processing
+1. Text Classification with `sklearn`
+2. Named Entity Recognition with `spacy`
+3. Regex with `regex`
+4. Web Scraping with `BeautifulSoup` 
+5. Optical Character Recognition with `tesseract`
+
+## 3. Computer Vision
+1. Object Detection with GluonCV
+2. Image Classification with Keras
+3. Image denoising with autoencoders
+
+## 4. AWS & boto3
+1. Create lambda functions
+2. Interact with s3: upload, download, list, read
