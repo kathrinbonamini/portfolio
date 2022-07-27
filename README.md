@@ -13,6 +13,7 @@ References, courses, books, comics, quotes and random amenities.
 4. Code Checklist
 5. [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 6. [Data Labeling](https://labelstud.io/)
+7. [Sample Class](https://github.com/kathrinbonamini/portfolio/blob/main/A1_useful_links/SampleClass.py)
 
 ## 2. Natural Language Processing
 1. Text Classification with `sklearn`
