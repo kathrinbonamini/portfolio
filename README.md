@@ -23,10 +23,11 @@ References, courses, books, comics, quotes and random amenities.
 5. Optical Character Recognition with `tesseract`
 
 ## 3. Computer Vision
-1. Object Detection with GluonCV
-2. Image Classification with Keras
-3. Image denoising with autoencoders
-4. Neural Style Transfer with `tensorflow`
+1. What is a convolutional layer with `numpy`
+2. Object Detection with GluonCV
+3. Image Classification with Keras
+4. Image denoising with autoencoders
+5. Neural Style Transfer with `tensorflow`
 
 ## 4. AWS & boto3
 1. Create lambda functions
