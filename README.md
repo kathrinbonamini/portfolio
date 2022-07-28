@@ -18,7 +18,7 @@ References, courses, books, comics, quotes and random amenities.
 ## 2. Natural Language Processing
 1. Text Classification with `sklearn`
 2. Named Entity Recognition with `spacy`
-3. Regex with `regex`
+3. Regex with `re`, `regex` & `pregex`
 4. Web Scraping with `BeautifulSoup` 
 5. Optical Character Recognition with `tesseract`
 
