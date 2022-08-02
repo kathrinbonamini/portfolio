@@ -19,7 +19,7 @@ References, courses, books, comics, quotes and random amenities.
 1. Text Classification with `sklearn`
 2. Named Entity Recognition with `spacy`
 3. Regex with `re`, `regex` & `pregex`
-4. Web Scraping with `BeautifulSoup` 
+4. [Web Scraping](https://github.com/kathrinbonamini/portfolio/blob/main/A2_natural_language_processing/crawler/crawler.md) with `BeautifulSoup` 
 5. Optical Character Recognition with `tesseract`
 
 ## 3. Computer Vision
