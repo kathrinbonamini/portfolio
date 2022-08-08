@@ -10,10 +10,11 @@ References, courses, books, comics, quotes and random amenities.
 1. [Zen of Python](https://peps.python.org/pep-0020/#the-zen-of-python)
 2. [Statistics](https://xkcd.com/2560/)
 3. [Git cheatsheet](https://github.com/kathrinbonamini/portfolio/blob/main/A1_useful_links/GitCheatsheet.md)
-4. Code Checklist
+4. Code Checklist - COMING SOON   
 5. [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 6. [Data Labeling](https://labelstud.io/)
 7. [Sample Class](https://github.com/kathrinbonamini/portfolio/blob/main/A1_useful_links/SampleClass.py)
+8. [Color Brewer](https://colorbrewer2.org/#type=diverging&scheme=PuOr&n=3)
 
 ## 2. Natural Language Processing
 1. Text Classification with `sklearn`
