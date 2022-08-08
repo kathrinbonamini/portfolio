@@ -28,7 +28,7 @@ References, courses, books, comics, quotes and random amenities.
 2. Object Detection with GluonCV
 3. Image Classification with Keras
 4. Image denoising with autoencoders
-5. Neural Style Transfer with `tensorflow`
+5. [Neural Style Transfer](https://github.com/kathrinbonamini/portfolio/blob/main/A3_computer_vision/neural_style_transfer/neural_style_transfer.md) with `tensorflow` & `keras`
 
 ## 4. AWS & boto3
 1. Create lambda functions
