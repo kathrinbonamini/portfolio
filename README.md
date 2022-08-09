@@ -19,7 +19,7 @@ References, courses, books, comics, quotes and random amenities.
 
 ## 2. Natural Language Processing
 1. Text Classification with `sklearn`
-2. Named Entity Recognition with `spacy`
+2. [Named Entity Recognition](https://github.com/kathrinbonamini/portfolio/blob/main/A2_natural_language_processing/custom_ner/ResumeNER.md) with `spacy` :mega:
 3. Regex with `re`, `regex` & `pregex`
 4. [Web Scraping](https://github.com/kathrinbonamini/portfolio/blob/main/A2_natural_language_processing/crawler/crawler.md) with `BeautifulSoup` 
 5. Optical Character Recognition with `tesseract`
