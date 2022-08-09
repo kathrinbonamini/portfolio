@@ -15,6 +15,7 @@ References, courses, books, comics, quotes and random amenities.
 6. [Data Labeling](https://labelstud.io/)
 7. [Sample Class](https://github.com/kathrinbonamini/portfolio/blob/main/A1_useful_links/SampleClass.py)
 8. [Color Brewer](https://colorbrewer2.org/#type=diverging&scheme=PuOr&n=3)
+9. [Complete list of Markdown Emoticons](https://gist.github.com/rxaviers/7360908)
 
 ## 2. Natural Language Processing
 1. Text Classification with `sklearn`
