@@ -16,7 +16,7 @@ References, courses, books, comics, quotes and random amenities.
 7. [Sample Class](https://github.com/kathrinbonamini/portfolio/blob/main/A1_useful_links/SampleClass.py)
 8. [Color Brewer](https://colorbrewer2.org/#type=diverging&scheme=PuOr&n=3)
 9. [Complete list of Markdown Emoticons](https://gist.github.com/rxaviers/7360908)
-10.[Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.it/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
+10. [Clean Code: A Handbook of Agile Software Craftsmanship](https://www.amazon.it/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882)
 
 ## 2. Natural Language Processing
 1. Text Classification with `sklearn`
