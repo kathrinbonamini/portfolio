@@ -20,7 +20,7 @@ References, courses, books, comics, quotes and random amenities.
 
 ## 2. Natural Language Processing
 1. Text Classification with `sklearn`
-2. [Named Entity Recognition](https://github.com/kathrinbonamini/portfolio/blob/main/A2_natural_language_processing/custom_ner/ResumeNER.md) with `spacy` :mega:
+2. [Named Entity Recognition](https://github.com/kathrinbonamini/portfolio/blob/main/A2_natural_language_processing/custom_ner/ResumeNER.md) with `spacy`
 3. Regex with `re`, `regex` & `pregex`
 4. [Web Scraping](https://github.com/kathrinbonamini/portfolio/blob/main/A2_natural_language_processing/crawler/crawler.md) with `BeautifulSoup` 
 5. Optical Character Recognition with `tesseract`
@@ -32,6 +32,6 @@ References, courses, books, comics, quotes and random amenities.
 4. Image denoising with autoencoders
 5. [Neural Style Transfer](https://github.com/kathrinbonamini/portfolio/blob/main/A3_computer_vision/neural_style_transfer/neural_style_transfer.md) with `tensorflow` & `keras`
 
-## 4. AWS & boto3
-1. Create lambda functions
-2. Interact with s3: upload, download, list, read
+## 4. Essentials 101
+1. [Boto3 - AWS Python SDK](https://github.com/kathrinbonamini/portfolio/blob/main/A4_essentials_101/boto3_101.md)
+
